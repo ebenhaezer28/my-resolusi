@@ -1,2 +1,3 @@
 my resolusi:
 - kosnisten
+- konsiteconding
